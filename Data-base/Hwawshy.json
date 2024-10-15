@@ -1,11 +1,12 @@
 {
-    "Hwawshy_type_1" : "حواوشي ضاني",
-    "Hwawshy_prise_1" : "60",
-    "Hwawshy_type_2" : "حواوشي كندوز",
-    "Hwawshy_prise_2" : "40",
-    "Hwawshy_type_3" : "حواوشي كندوز سادة",
+    "Hwawshy_type_1" : "حواوشي صغير",
+    "Hwawshy_prise_1" : "20",
+    "Hwawshy_type_2" : "حواوشي صغير بالجبنة",
+    "Hwawshy_prise_2" : "30",
+    "Hwawshy_type_3" : "حواوشي كبير",
     "Hwawshy_prise_3" : "50",
-    "Hwawshy_type_4" : "حواوشي جبنة موتزاريلا",
-    "Hwawshy_prise_4" : "70"
-    
+    "Hwawshy_type_4" : "حواوشي كبير بالجبنة",
+    "Hwawshy_prise_4" : "65",
+    "Hwawshy_type_5" : "حواوشي سوري بالجبنة",
+    "Hwawshy_prise_5" : "65"
 }

@@ -3,11 +3,11 @@
 
 
 :root {
-    --primaryColor: #00590d;
-    --seconderyColor: #1da32f;
+    --primaryColor: #ed2124;
+    --seconderyColor: #ed2124;
     --whiteColor: #fff;
     --blackColor: #333333;
-    --softGreenColor: #d0ffcd;
+    --softGreenColor: #feed23;
     --darkGreyColor: #a7a7a7;
     --greyColor: #f5f5f5;
     --whiteHeader: #ffffff
@@ -87,9 +87,9 @@ body {
     justify-content: space-around;
     background-color: var(--whiteColor);
     border-radius: 50px;
-    box-shadow: 0 0 10px rgb(4, 255, 63),
-    0 0 10px rgb(0, 248, 0),
-    0 0 10px rgb(13, 255, 0);
+    box-shadow: 0 0 10px rgb(255, 4, 4),
+    0 0 10px rgb(248, 0, 0),
+    0 0 10px rgb(255, 0, 0);
 }
 .img img {
     width: 430px;
@@ -1257,9 +1257,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgb(4, 255, 63),
-        0 0 10px rgb(0, 248, 0),
-        0 0 10px rgb(13, 255, 0);
+        box-shadow: 0 0 10px rgb(255, 4, 4),
+        0 0 10px rgb(248, 8, 0),
+        0 0 10px rgb(255, 0, 0);
     }
     .img img {
         width: 220px;
@@ -1324,9 +1324,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgb(4, 255, 63),
-        0 0 10px rgb(0, 248, 0),
-        0 0 10px rgb(13, 255, 0);
+        box-shadow: 0 0 10px rgb(255, 4, 4),
+        0 0 10px rgb(248, 0, 0),
+        0 0 10px rgb(255, 0, 0);
     }
     .img img {
         width: 200px;
@@ -1609,9 +1609,9 @@ input[type="text"], button {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    box-shadow: 0 0 10px rgb(4, 255, 63),
-    0 0 10px rgb(0, 248, 0),
-    0 0 10px rgb(13, 255, 0);
+    box-shadow: 0 0 10px rgb(255, 4, 4),
+    0 0 10px rgb(248, 0, 0),
+    0 0 10px rgb(255, 0, 0);
     }   
     #messageBox h3 {
     background-color: var(--whiteColor);
@@ -1726,9 +1726,9 @@ input[type="text"], button {
         justify-content: space-around;
         background-color: var(--whiteColor);
         border-radius: 50px;
-        box-shadow: 0 0 10px rgb(4, 255, 63),
-        0 0 10px rgb(0, 248, 0),
-        0 0 10px rgb(13, 255, 0);
+        box-shadow: 0 0 20px rgb(255, 4, 4),
+        0 0 10px rgb(255, 144, 144),
+        0 0 10px rgb(255, 255, 255);
     }
     .img img {
         width: 180px;

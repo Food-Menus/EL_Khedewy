@@ -10,6 +10,7 @@ fetch('./../../Data-base/Hwawshy.json')
     document.getElementById('Hwawshy_prise_3').textContent = data.Hwawshy_prise_3;
     document.getElementById('Hwawshy_type_4').textContent = data.Hwawshy_type_4;
     document.getElementById('Hwawshy_prise_4').textContent = data.Hwawshy_prise_4;
-
+    document.getElementById('Hwawshy_type_5').textContent = data.Hwawshy_type_5;
+    document.getElementById('Hwawshy_prise_5').textContent = data.Hwawshy_prise_5;
 
   });
