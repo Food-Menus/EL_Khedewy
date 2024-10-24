@@ -2,7 +2,7 @@
 function openWhatsApp() {
     const name = document.getElementById('name').value;
     const adress = document.getElementById('adress').value;
-    const phoneNumber = "+201061977772"; 
+    const phoneNumber = "+01112824017"; 
 
     // استرجاع البيانات من localStorage
     const storedData = localStorage.getItem("userData");
@@ -22,7 +22,7 @@ function openWhatsApp() {
 function openTelegram() {
     const name = document.getElementById('name').value;
     const adress = document.getElementById('adress').value;
-    const username = "+201061977772"; // استبدل بـ username بوت التليجرام الخاص بك
+    const username = "+01112824017"; // استبدل بـ username بوت التليجرام الخاص بك
 
     // استرجاع البيانات من localStorage
     const storedData = localStorage.getItem("userData");
