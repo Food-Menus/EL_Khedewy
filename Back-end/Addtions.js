@@ -16,7 +16,11 @@ fetch('./../../Data-base/Addtions.json')
     document.getElementById('Addtions_prise_6').textContent = data.Addtions_prise_6;
     document.getElementById('Addtions_type_7').textContent = data.Addtions_type_7;
     document.getElementById('Addtions_prise_7').textContent = data.Addtions_prise_7;
+    document.getElementById('Addtions_type_7_1').textContent = data.Addtions_type_7_1;
+    document.getElementById('Addtions_prise_7_1').textContent = data.Addtions_prise_7_1;
     document.getElementById('Addtions_type_8').textContent = data.Addtions_type_8;
     document.getElementById('Addtions_prise_8').textContent = data.Addtions_prise_8;
+    document.getElementById('Addtions_type_8_1').textContent = data.Addtions_type_8_1;
+    document.getElementById('Addtions_prise_8_1').textContent = data.Addtions_prise_8_1;
 
   });

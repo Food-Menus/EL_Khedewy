@@ -12,5 +12,7 @@ fetch('./../../Data-base/Koshary.json')
     document.getElementById('Koshary_prise_4').textContent = data.Koshary_prise_4;
     document.getElementById('Koshary_type_5').textContent = data.Koshary_type_5;
     document.getElementById('Koshary_prise_5').textContent = data.Koshary_prise_5;
+    document.getElementById('Koshary_type_5_1').textContent = data.Koshary_type_5_1;
+    document.getElementById('Koshary_prise_5_1').textContent = data.Koshary_prise_5_1;
 
   });

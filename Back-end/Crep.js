@@ -22,8 +22,12 @@ fetch('./../../Data-base/Crep.json')
     document.getElementById('Crep_prise_9').textContent = data.Crep_prise_9;
     document.getElementById('Crep_type_10').textContent = data.Crep_type_10;
     document.getElementById('Crep_prise_10').textContent = data.Crep_prise_10;
+    document.getElementById('Crep_type_10_1').textContent = data.Crep_type_10_1;
+    document.getElementById('Crep_prise_10_1').textContent = data.Crep_prise_10_1;
     document.getElementById('Crep_type_11').textContent = data.Crep_type_11;
     document.getElementById('Crep_prise_11').textContent = data.Crep_prise_11;
+    document.getElementById('Crep_type_11_1').textContent = data.Crep_type_11_1;
+    document.getElementById('Crep_prise_11_1').textContent = data.Crep_prise_11_1;
     document.getElementById('Crep_type_12').textContent = data.Crep_type_12;
     document.getElementById('Crep_prise_12').textContent = data.Crep_prise_12;
 
