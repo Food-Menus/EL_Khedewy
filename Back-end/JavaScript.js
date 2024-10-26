@@ -35,7 +35,7 @@ function openTelegram() {
     });
     message += `على عنوان ${adress}`;
 
-    const telegramUrl = `https://t.me/${username}?start=${encodeURIComponent(message)}`;
+    const telegramUrl = `https://t.me/${username}?text=${encodeURIComponent(message)}`;
     window.open(telegramUrl, '_blank');
 }
 
